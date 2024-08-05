@@ -1,11 +1,10 @@
-# Jekyll Curate Premium Theme
+# Jay's blog
 
-Jekyll Curate is a premium portfolio theme for Jekyll.
+I believe that successful content is attributed to context
 
 ## Documentation
 
-* Live Docs: https://www.zerostatic.io/docs/jekyll-curate
-* Demo: https://jekyll-curate.netlify.app/
+* Demo: https://myblog.github.io/
 
 ## Screenshot
 
